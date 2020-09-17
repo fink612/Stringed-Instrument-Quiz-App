@@ -3,12 +3,12 @@
   background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
 }
 
-
 h1 {
   text-align: center;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 35px;
 }
+
 main {
   display: flex;
   flex-direction: column;
@@ -27,7 +27,8 @@ main {
 }
 #score-banner {
   text-align: right;
-  color: blue;
+  text-size: 18px;
+  color: darkblue;
 }
 
 p, h2 {
